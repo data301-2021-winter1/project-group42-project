@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+{Reece: With the analytics project I hope to introduce myself to the world of crime statistics while also gaining an in-depth understanding of the usefulness this data can provide to society. I have only recently started an interest in analytics, however, I have always been fascinated by crime. Crime statistics has been influencing police procedures for many years and has only gained in popularity since its introduction. I would like to explore the effectiveness of authorities that analyze and interpret the information given from these reports. As in, I would like to investigate whether there are any noticeable changes in the rate of crime at a criminal hotspot after a certain amount of time has gone by. As well as, how long does it take for the Boston police Department to actually enact a noticeable change that affects the crime rate in locations around Boston with large amounts of criminal activity.}
 
 ## Describe your dataset in about 150-200 words
 
@@ -17,14 +17,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-<<<<<<< HEAD
-- Person 1: one sentence about you!
+- Reece Battrum: Hi! My name is Reece and I am a 3rd year mathematics major.
 - Sophie Betivoiu: Hi I'm Sophie and I'm a third year math major! Yay!
-=======
-- Person 1: Hi! My name is Reece and I am a 3rd year mathematics major.
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
->>>>>>> 16032c6ac68b3a2b24bb2987c6b81c8271c66005
 
 ## Images
 
